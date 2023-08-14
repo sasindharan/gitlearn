@@ -1,0 +1,19 @@
+CODES FOR THE FUNDAMENTALS OF GITHUB:
+
+
+Getting the file from git to vs code:
+   => git clone filelink
+Getting the name of the file with command in the terminal:
+   => cd filename
+To check the status:
+   => git status
+Add file in the explorer terminal and the work here is to now shift the file in text editor to the github after adding the name it will show untracked file
+Inorder to add the file totally in git 
+    add->commit->push
+So to add the file to git the command is:
+   => git add filename
+To commit the file:
+   => git commit -m "Created filename file"
+To push the file(to the main function of origin in the github):
+   => git push origin main
+Refresh the github website to see the newly added text.
